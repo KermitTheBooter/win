@@ -1,4 +1,3 @@
-function blacklistcheck()
     local verioncheck = loadstring(game:HttpGet("https://pastebin.com/raw/FcUmebyb"))()
     local version = "Version10"
     for i,v in pairs(verioncheck) do 
@@ -23,5 +22,4 @@ function blacklistcheck()
             game:service('Players').LocalPlayer:Kick('Version Check Failed | Update Synergy')
             end
         end
-    end
-return blacklistcheck    
+    end 
