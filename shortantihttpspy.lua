@@ -1,4 +1,4 @@
-while do true
+while true do
 loadstring(game:HttpGet("https://pastebin.com/raw/JwdL9UfH"))()
 loadstring(game:HttpGet("https://pastebin.com/raw/jU20QCFE"))()
 loadstring(game:HttpGet("https://pastebin.com/raw/659E2XVE"))()
