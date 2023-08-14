@@ -1,3 +1,4 @@
+return {
 local verioncheck = loadstring(game:HttpGet("https://pastebin.com/raw/FcUmebyb"))()
 local version = "Version10"
 for i,v in pairs(verioncheck) do 
@@ -22,3 +23,4 @@ print("Verion Check Pass")
         game:service('Players').LocalPlayer:Kick('Version Check Failed | Update Synergy')
     end
 end
+}
