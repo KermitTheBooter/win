@@ -1,4 +1,4 @@
- 
+print("github check") 
                                                                                 local v0=string.char;  
                                                                         local v1=string.byte;local v2=string.sub;local   
                                                                     v3=bit32 or bit ;local v4=v3.bxor;local v5=table.concat;local  
